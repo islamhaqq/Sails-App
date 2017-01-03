@@ -37,5 +37,8 @@
     "url": "git://github.com/anonymous node/sails user/dataVisualizationSystem.git"
   },
   "author": "anonymous node/sails user",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.8.0"
+  }
 }
